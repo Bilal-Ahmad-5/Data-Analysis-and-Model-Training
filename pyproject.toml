@@ -1,0 +1,16 @@
+[project]
+name = "Classification Model Builder & Analyzer"
+version = "0.1.0"
+description = "A Streamlit-based web application that helps you build, compare, and analyze multiple classification machine learning models in one place."
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.4",
+    "pandas>=2.2.3",
+    "plotly>=6.0.1",
+    "psycopg2-binary>=2.9.10",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "sqlalchemy>=2.0.40",
+    "streamlit>=1.44.1",
+]
