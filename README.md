@@ -149,7 +149,7 @@ pickle – Object serialization for DataFrames
 
 ⚙️ Environment Setup
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/classification-model-builder.git
+git clone https://github.com/Bilal-Ahmad-5/Data-Analysis-and-Model-Training.git
 cd classification-model-builder
 
 2️⃣ Create a Virtual Environment
