@@ -1,6 +1,6 @@
-🧠 Classification Model Builder & Analyzer
+🧠 Data Analysis & Model Training
 
-A Streamlit-based web application that helps you build, compare, and analyze multiple classification machine learning models in one place.
+A Streamlit-based web application that helps in data analysis, cleaing, and training on multiple classification machine learning models in one place.
 Upload your data, choose preprocessing options, train different models, and get detailed analytics and reports — all without writing a single line of code.
 
 🚀 Features
