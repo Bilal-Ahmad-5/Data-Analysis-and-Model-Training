@@ -1,6 +1,6 @@
-🧠 Data Analysis & Model Training
+🧠 Data Analysis & Prediction
 
-A Streamlit-based web application that helps in data analysis, cleaing, and training on multiple classification machine learning models in one place.
+A Streamlit-based web application that helps in data analysis, cleaing, and Predicting Feautures on multiple classification machine learning models in one place.
 Upload your data, choose preprocessing options, train different models, and get detailed analytics and reports — all without writing a single line of code.
 
 🚀 Features
@@ -149,7 +149,7 @@ pickle – Object serialization for DataFrames
 
 ⚙️ Environment Setup
 1️⃣ Clone the Repository
-git clone https://github.com/Bilal-Ahmad-5/Data-Analysis-and-Model-Training.git
+git clone https://github.com/Bilal-Ahmad-5/Data-Analysis-and-Prediction.git
 cd classification-model-builder
 
 2️⃣ Create a Virtual Environment
